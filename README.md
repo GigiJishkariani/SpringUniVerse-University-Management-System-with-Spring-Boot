@@ -4,12 +4,12 @@ This is SpringUniVerse, a comprehensive solution for efficiently managing a univ
 
 # Features:
 
-Course Management: Create, update, and delete courses effortlessly.
+- **Course Management:** Create, update, and delete courses effortlessly.
 
-Student Management: Register new students, update their information, and delete existing ones.
+- **Student Management:** Register new students, update their information, and delete existing ones.
 
-Grade Tracking: Set and update scores for registered students.
+- **Grade Tracking:** Set and update scores for registered students.
 
-Student Search: Find all students or search for students by specified grade.
-
-Course Enrollment: Register existing students for courses with ease.
+- **Student Search:** Find all students or search for students by specified grade.
+  
+- **Course Enrollment:** Register existing students for courses with ease.
